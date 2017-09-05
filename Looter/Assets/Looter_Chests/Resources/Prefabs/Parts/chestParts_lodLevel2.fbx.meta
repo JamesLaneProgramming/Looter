@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: a1123f91ea0246247aed5ca200d5841b
+timeCreated: 1486315702
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base_01_lodLevel2
+    100002: base_02_lodLevel2
+    100004: base_03_lodLevel2
+    100006: base_04_lodLevel2
+    100008: base_05_lodLevel2
+    100010: base_06_lodLevel2
+    100012: //RootNode
+    100014: lid_01_lodLevel2
+    100016: lid_02_lodLevel2
+    100018: lid_03_lodLevel2
+    100020: lid_04_lodLevel2
+    100022: lid_05_lodLevel2
+    100024: lid_06_lodLevel2
+    400000: base_01_lodLevel2
+    400002: base_02_lodLevel2
+    400004: base_03_lodLevel2
+    400006: base_04_lodLevel2
+    400008: base_05_lodLevel2
+    400010: base_06_lodLevel2
+    400012: //RootNode
+    400014: lid_01_lodLevel2
+    400016: lid_02_lodLevel2
+    400018: lid_03_lodLevel2
+    400020: lid_04_lodLevel2
+    400022: lid_05_lodLevel2
+    400024: lid_06_lodLevel2
+    2300000: base_01_lodLevel2
+    2300002: base_02_lodLevel2
+    2300004: base_03_lodLevel2
+    2300006: base_04_lodLevel2
+    2300008: base_05_lodLevel2
+    2300010: base_06_lodLevel2
+    2300012: lid_01_lodLevel2
+    2300014: lid_02_lodLevel2
+    2300016: lid_03_lodLevel2
+    2300018: lid_04_lodLevel2
+    2300020: lid_05_lodLevel2
+    2300022: lid_06_lodLevel2
+    3300000: base_01_lodLevel2
+    3300002: base_02_lodLevel2
+    3300004: base_03_lodLevel2
+    3300006: base_04_lodLevel2
+    3300008: base_05_lodLevel2
+    3300010: base_06_lodLevel2
+    3300012: lid_01_lodLevel2
+    3300014: lid_02_lodLevel2
+    3300016: lid_03_lodLevel2
+    3300018: lid_04_lodLevel2
+    3300020: lid_05_lodLevel2
+    3300022: lid_06_lodLevel2
+    4300000: lid_01_lodLevel2
+    4300002: base_01_lodLevel2
+    4300004: lid_02_lodLevel2
+    4300006: lid_03_lodLevel2
+    4300008: base_02_lodLevel2
+    4300010: base_03_lodLevel2
+    4300012: lid_04_lodLevel2
+    4300014: base_04_lodLevel2
+    4300016: lid_05_lodLevel2
+    4300018: base_05_lodLevel2
+    4300020: base_06_lodLevel2
+    4300022: lid_06_lodLevel2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
